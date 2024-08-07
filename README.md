@@ -15,4 +15,5 @@ An app shows weather status specific to City using SwiftUI
 
 
 ## Screenshots
-<img width="335" alt="Screenshot 2024-08-07 at 9 19 11 AM" src="https://github.com/user-attachments/assets/35a73022-31ae-437d-99be-9b9808713324">
+
+<img width="345" alt="Screenshot 2024-08-07 at 9 19 53 AM" src="https://github.com/user-attachments/assets/2da077be-2fb4-4354-975d-127045cedee8">
